@@ -1,1 +1,1 @@
-# Rehoboam-AI-For-Javascript
+# Rehoboam AI For Javascript
